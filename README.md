@@ -23,4 +23,4 @@ The system is divided into five phases:
   - **Phase 3B** — PPO fine-tuning
 - **Phase 4** — Deterministic deployment evaluation
 
-This design mirrors the thesis workflow and keeps each stage modular and traceable.
+This design mirrors the workflow and keeps each stage modular and traceable.
